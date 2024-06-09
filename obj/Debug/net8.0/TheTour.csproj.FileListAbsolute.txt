@@ -1,0 +1,14 @@
+E:\Code\TheTour\bin\Debug\net8.0\TheTour.exe
+E:\Code\TheTour\bin\Debug\net8.0\TheTour.deps.json
+E:\Code\TheTour\bin\Debug\net8.0\TheTour.runtimeconfig.json
+E:\Code\TheTour\bin\Debug\net8.0\TheTour.dll
+E:\Code\TheTour\bin\Debug\net8.0\TheTour.pdb
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.AssemblyInfoInputs.cache
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.AssemblyInfo.cs
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.csproj.CoreCompileInputs.cache
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.dll
+E:\Code\TheTour\obj\Debug\net8.0\refint\TheTour.dll
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.pdb
+E:\Code\TheTour\obj\Debug\net8.0\TheTour.genruntimeconfig.cache
+E:\Code\TheTour\obj\Debug\net8.0\ref\TheTour.dll
